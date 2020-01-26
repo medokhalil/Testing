@@ -1,0 +1,26 @@
+[
+  {
+    "dataMesCompetencia": "2020-01-26",
+    "dataMesReferencia": "2020-01-26",
+    "id": 0,
+    "municipio": {
+      "codigoIBGE": "string",
+      "nomeIBGE": "string",
+      "nomeIBGEsemAcento": "string",
+      "pais": "string",
+      "uf": {
+        "nome": "string",
+        "sigla": "string"
+      }
+    },
+    "quantidadeDependentes": 0,
+    "titularBolsaFamilia": {
+      "cpfFormatado": "string",
+      "multiploCadastro": true,
+      "nis": "string",
+      "nome": "string"
+    },
+    "valor": 0
+  }
+]
+
